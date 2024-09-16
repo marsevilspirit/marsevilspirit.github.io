@@ -176,7 +176,15 @@
                 
             
         
-        <link rel="stylesheet" type="text/css" href="../../../css/lightgallery.min.css" /><div class=".article-gallery"></div><script src="../../../js/lightgallery.min.js"></script><script>if("undefined"!=typeof lightGallery) {
+        <link rel="stylesheet" type="text/css" href="../../../css/lightgallery.min.css" /><div class=".article-gallery"><p>由于不知为什么， 我的arch linux的KDE亮度调节UI不好使，就是一个摆设。</p>
+<p>我也懒得去搞，在这里总结一下用命令行调节亮度的方法。</p>
+<p>因为我是用的是X11啊，所以用了<code>xrandr</code>这个命令：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">mars:~/ $ xrandr                                                                    </span><br><span class="line">Screen 0: minimum 8 x 8, current 2560 x 1600, maximum 32767 x 32767</span><br><span class="line">DP-0 disconnected (normal left inverted right x axis y axis)</span><br><span class="line">DP-1 disconnected (normal left inverted right x axis y axis)</span><br><span class="line">DP-2 connected primary 2560x1600+0+0 (normal left inverted right x axis y axis) 16mm x 10mm</span><br><span class="line">   2560x1600     60.00 + 240.00* </span><br><span class="line">HDMI-0 disconnected (normal left inverted right x axis y axis)</span><br><span class="line">DP-3 disconnected (normal left inverted right x axis y axis)</span><br><span class="line">DP-4 disconnected (normal left inverted right x axis y axis)</span><br><span class="line">DP-5 disconnected (normal left inverted right x axis y axis)</span><br><span class="line">DP-6 disconnected (normal left inverted right x axis y axis)</span><br><span class="line">DP1 disconnected (normal left inverted right x axis y axis)</span><br><span class="line">DP2 disconnected (normal left inverted right x axis y axis)</span><br><span class="line">HDMI1 disconnected (normal left inverted right x axis y axis)</span><br><span class="line">HDMI2 disconnected (normal left inverted right x axis y axis)</span><br><span class="line">VIRTUAL1 disconnected (normal left inverted right x axis y axis)</span><br></pre></td></tr></table></figure>
+
+<p>可以看到有一个是connected状态，所以我们要调节DP-2的亮度(X为调节的亮度大小，推荐0.1~1之间)：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">mars:~/ $ xrandr --output DP-2 --brightness X</span><br></pre></td></tr></table></figure>
+
+</div><script src="../../../js/lightgallery.min.js"></script><script>if("undefined"!=typeof lightGallery) {
         var options1 = {
             selector: '.gallery-item'
         };
@@ -195,8 +203,8 @@
                 <span>打上标签:
                     
                     
-                        <a href='/tags/%E5%B7%A5%E5%85%B7/'>
-                            工具
+                        <a href='/tags/CLI/'>
+                            CLI
                         </a>
                     
                 </span>
