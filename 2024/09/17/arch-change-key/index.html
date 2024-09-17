@@ -173,11 +173,11 @@
     <div class="post-md">
         
             
-                <ol class="post-toc"><li class="post-toc-item post-toc-level-1"><a class="post-toc-link" href="#%E6%B0%B8%E4%B9%85%E4%BF%AE%E6%94%B9%E7%9A%84%E6%96%B9%E6%B3%95"><span class="post-toc-text">永久修改的方法</span></a></li></ol>
+                <ol class="post-toc"><li class="post-toc-item post-toc-level-3"><a class="post-toc-link" href="#%E6%B0%B8%E4%B9%85%E4%BF%AE%E6%94%B9%E7%9A%84%E6%96%B9%E6%B3%95"><span class="post-toc-text">永久修改的方法</span></a></li></ol>
             
         
         <link rel="stylesheet" type="text/css" href="../../../css/lightgallery.min.css" /><div class=".article-gallery"><p>这是在下苦苦寻找最好的方法，无需其他软件，直接开机自启。<br>这个方法需要桌面环境X11。</p>
-<h1 id="永久修改的方法"><a href="#永久修改的方法" class="headerlink" title="永久修改的方法"></a>永久修改的方法</h1><p>首先我们需要找到<code>/usr/share/X11/xkb/keycodes/evdev</code>这个文件。<br>用vim进入并修改文件。<br>将ctrl键与大写键交换举例：</p>
+<h3 id="永久修改的方法"><a href="#永久修改的方法" class="headerlink" title="永久修改的方法"></a>永久修改的方法</h3><p>首先我们需要找到<code>/usr/share/X11/xkb/keycodes/evdev</code>这个文件。<br>用vim进入并修改文件。<br>将ctrl键与大写键交换举例：</p>
 <figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">...</span><br><span class="line">&lt;CAPS&gt; = 66;</span><br><span class="line">...</span><br><span class="line">&lt;LCTL&gt; = 37;</span><br><span class="line">...</span><br></pre></td></tr></table></figure>
 <p>修改成:</p>
 <figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">...</span><br><span class="line">&lt;CAPS&gt; = 37;</span><br><span class="line">...</span><br><span class="line">&lt;LCTL&gt; = 66;</span><br><span class="line">...</span><br></pre></td></tr></table></figure>
