@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.marsevilspirit.com/2024/09/17/20240917%E4%B8%AD%E7%A7%8B/</loc>
+    
+    <lastmod>2024-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.marsevilspirit.com/2024/09/17/fish%E7%9A%84%E9%85%8D%E7%BD%AE/</loc>
     
     <lastmod>2024-09-17</lastmod>
@@ -105,6 +114,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://www.marsevilspirit.com/tags/%E9%97%B2%E8%AF%9D/</loc>
+    <lastmod>2024-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -116,6 +132,13 @@
   
   <url>
     <loc>https://www.marsevilspirit.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2024-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.marsevilspirit.com/categories/%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2024-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
