@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.marsevilspirit.com/2024/09/17/arch-change-key/</loc>
+    <loc>https://www.marsevilspirit.com/2024/09/17/arch-change-key/</loc>
     
     <lastmod>2024-09-17</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://www.marsevilspirit.com/index/index.html</loc>
+    <loc>https://www.marsevilspirit.com/index/index.html</loc>
     
     <lastmod>2024-09-16</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://www.marsevilspirit.com/2024/09/16/Go-reflect-learn-note/</loc>
+    <loc>https://www.marsevilspirit.com/2024/09/16/Go-reflect-learn-note/</loc>
     
     <lastmod>2024-09-16</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://www.marsevilspirit.com/2024/09/17/Adjust-screen-brightness-cli/</loc>
+    <loc>https://www.marsevilspirit.com/2024/09/17/Adjust-screen-brightness-cli/</loc>
     
     <lastmod>2024-09-16</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://www.marsevilspirit.com/about/index.html</loc>
+    <loc>https://www.marsevilspirit.com/about/index.html</loc>
     
     <lastmod>2024-09-16</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://www.marsevilspirit.com/categories/index.html</loc>
+    <loc>https://www.marsevilspirit.com/categories/index.html</loc>
     
     <lastmod>2024-09-15</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://www.marsevilspirit.com/tags/index.html</loc>
+    <loc>https://www.marsevilspirit.com/tags/index.html</loc>
     
     <lastmod>2024-09-15</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://www.marsevilspirit.com/list/index.html</loc>
+    <loc>https://www.marsevilspirit.com/list/index.html</loc>
     
     <lastmod>2024-09-15</lastmod>
     
@@ -75,7 +75,7 @@
   
 
   <url>
-    <loc>http://www.marsevilspirit.com/</loc>
+    <loc>https://www.marsevilspirit.com/</loc>
     <lastmod>2024-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -83,14 +83,14 @@
 
   
   <url>
-    <loc>http://www.marsevilspirit.com/tags/CLI/</loc>
+    <loc>https://www.marsevilspirit.com/tags/CLI/</loc>
     <lastmod>2024-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.marsevilspirit.com/tags/go/</loc>
+    <loc>https://www.marsevilspirit.com/tags/go/</loc>
     <lastmod>2024-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -99,14 +99,14 @@
 
   
   <url>
-    <loc>http://www.marsevilspirit.com/categories/%E5%B7%A5%E5%85%B7/</loc>
+    <loc>https://www.marsevilspirit.com/categories/%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2024-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.marsevilspirit.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://www.marsevilspirit.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2024-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
