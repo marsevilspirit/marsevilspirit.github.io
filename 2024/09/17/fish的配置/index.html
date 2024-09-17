@@ -4,7 +4,7 @@
     <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" name="viewport" />
-    <meta name="description" content="arch linux系统永久改键" />
+    <meta name="description" content="fish的配置" />
     <meta name="hexo-theme-A4" content="v1.9.3" />
     <link rel="alternate icon" type="image/webp" href="/img/marsevilspirit.png">
     <title>marsevilspirit</title>
@@ -163,7 +163,7 @@
         
             
                 <div class="post-main-title">
-                    arch linux系统永久改键
+                    fish的配置
                 </div>
             
         
@@ -173,14 +173,26 @@
     <div class="post-md">
         
             
-                <ol class="post-toc"><li class="post-toc-item post-toc-level-3"><a class="post-toc-link" href="#%E6%B0%B8%E4%B9%85%E4%BF%AE%E6%94%B9%E7%9A%84%E6%96%B9%E6%B3%95"><span class="post-toc-text">永久修改的方法</span></a></li></ol>
+                <ol class="post-toc"><li class="post-toc-item post-toc-level-3"><a class="post-toc-link" href="#fish%E7%9A%84%E9%85%8D%E7%BD%AE"><span class="post-toc-text">fish的配置</span></a><ol class="post-toc-child"><li class="post-toc-item post-toc-level-4"><a class="post-toc-link" href="#%E4%B8%8B%E8%BD%BDfish"><span class="post-toc-text">下载fish</span></a></li><li class="post-toc-item post-toc-level-4"><a class="post-toc-link" href="#%E4%BD%BF%E7%94%A8fish"><span class="post-toc-text">使用fish</span></a></li><li class="post-toc-item post-toc-level-4"><a class="post-toc-link" href="#%E4%BF%AE%E6%94%B9fish%E7%9A%84prompt"><span class="post-toc-text">修改fish的prompt</span></a></li></ol></li></ol>
             
         
-        <link rel="stylesheet" type="text/css" href="../../../css/lightgallery.min.css" /><div class=".article-gallery"><p>这是在下苦苦寻找最好的方法，无需其他软件，直接开机自启。<br>这个方法需要桌面环境X11。</p>
-<h3 id="永久修改的方法"><a href="#永久修改的方法" class="headerlink" title="永久修改的方法"></a>永久修改的方法</h3><p>首先我们需要找到<code>/usr/share/X11/xkb/keycodes/evdev</code>这个文件。<br>用vim进入并修改文件。<br>将ctrl键与大写键交换举例：</p>
-<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">...</span><br><span class="line">&lt;CAPS&gt; = 66;</span><br><span class="line">...</span><br><span class="line">&lt;LCTL&gt; = 37;</span><br><span class="line">...</span><br></pre></td></tr></table></figure>
-<p>修改成:</p>
-<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">...</span><br><span class="line">&lt;CAPS&gt; = 37;</span><br><span class="line">...</span><br><span class="line">&lt;LCTL&gt; = 66;</span><br><span class="line">...</span><br></pre></td></tr></table></figure>
+        <link rel="stylesheet" type="text/css" href="../../../css/lightgallery.min.css" /><div class=".article-gallery"><h3 id="fish的配置"><a href="#fish的配置" class="headerlink" title="fish的配置"></a>fish的配置</h3><p>今天心血来潮，想试试现代shell是什么感觉。</p>
+<h4 id="下载fish"><a href="#下载fish" class="headerlink" title="下载fish"></a>下载fish</h4><p>arch linux 可通过包管理器一键下载：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ sudo pacman -S fish</span><br></pre></td></tr></table></figure>
+
+<h4 id="使用fish"><a href="#使用fish" class="headerlink" title="使用fish"></a>使用fish</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ fish</span><br></pre></td></tr></table></figure>
+
+<p>刚开始感觉还不错，用rust写的东西就是<strong>高级</strong>😆。</p>
+<h4 id="修改fish的prompt"><a href="#修改fish的prompt" class="headerlink" title="修改fish的prompt"></a>修改fish的prompt</h4><p>因为之前zsh的prompt用惯了，想改个跟之前一样的：</p>
+<a href="/img/fish_propmt.png" title="fish prompt" class="gallery-item" style="box-shadow: none;"> <img src="/img/fish_propmt.png" alt="fish prompt" width="150" height=""></a>
+
+<p>想要自定义prompt，需要对fuction目录下的fish_prompt.fish进行修改:</p>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">function</span> fish_prompt</span><br><span class="line">    <span class="comment"># This is a simple prompt. It looks like</span></span><br><span class="line">    <span class="comment"># mars:/last-dir $</span></span><br><span class="line">    <span class="comment"># with the last directory shown and colored,</span></span><br><span class="line">    <span class="comment"># and a &quot;#&quot; instead of a &quot;$&quot; when run as root.</span></span><br><span class="line">    <span class="built_in">set</span> -l symbol <span class="string">&#x27; $ &#x27;</span></span><br><span class="line">    <span class="built_in">set</span> -l color <span class="variable">$fish_color_cwd</span></span><br><span class="line">    <span class="keyword">if</span> fish_is_root_user</span><br><span class="line">        <span class="built_in">set</span> symbol <span class="string">&#x27; # &#x27;</span></span><br><span class="line">        <span class="built_in">set</span> -q fish_color_cwd_root</span><br><span class="line">        and <span class="built_in">set</span> color <span class="variable">$fish_color_cwd_root</span></span><br><span class="line">    end</span><br><span class="line"></span><br><span class="line">    set_color white --bold</span><br><span class="line">    <span class="built_in">echo</span> -n <span class="variable">$USER</span>:</span><br><span class="line">    </span><br><span class="line">    set_color <span class="variable">$color</span></span><br><span class="line">    <span class="comment"># Get the last directory in the path</span></span><br><span class="line">    <span class="built_in">set</span> -l last_dir (prompt_pwd | string <span class="built_in">split</span> <span class="string">&quot;/&quot;</span> | <span class="built_in">tail</span> -n 1)</span><br><span class="line">    <span class="built_in">echo</span> -n <span class="string">&quot;<span class="variable">$last_dir</span>/&quot;</span></span><br><span class="line">    </span><br><span class="line">    set_color normal</span><br><span class="line">    <span class="built_in">echo</span> -n <span class="variable">$symbol</span></span><br><span class="line">end</span><br></pre></td></tr></table></figure>
+
+<p>在config.fish中，将$fish_color_cwd从🟩修改为🟦并加粗：</p>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">if</span> status is-interactive</span><br><span class="line">    <span class="comment"># Commands to run in interactive sessions can go here</span></span><br><span class="line">    <span class="built_in">set</span> fish_color_cwd blue --bold</span><br><span class="line">end</span><br></pre></td></tr></table></figure>
+
+<p>最后完美复现先前的prompt。</p>
 </div><script src="../../../js/lightgallery.min.js"></script><script>if("undefined"!=typeof lightGallery) {
         var options1 = {
             selector: '.gallery-item'
@@ -228,11 +240,9 @@
         
             <div class="post-footer-pre-next">
                 
-                    <span>上一篇：<a href='/2024/09/17/fish%E7%9A%84%E9%85%8D%E7%BD%AE/'>fish的配置</a></span>
-                
 
                 
-                    <span class="post-footer-pre-next-last-span-right">下一篇：<a href="/2024/09/17/Adjust-screen-brightness-cli/">命令行调节屏幕亮度</a>
+                    <span class="post-footer-pre-next-last-span-right">下一篇：<a href="/2024/09/17/arch-change-key/">arch linux系统永久改键</a>
                     </span>
                 
             </div>
