@@ -25,8 +25,8 @@ https://www.marsevilspirit.com/list/index.html
 https://www.marsevilspirit.com/
 https://www.marsevilspirit.com/tags/%E9%97%B2%E8%AF%9D/
 https://www.marsevilspirit.com/tags/CLI/
-https://www.marsevilspirit.com/tags/go/
 https://www.marsevilspirit.com/tags/%E5%8D%95%E7%89%87%E6%9C%BA/
+https://www.marsevilspirit.com/tags/go/
 https://www.marsevilspirit.com/tags/git/
 https://www.marsevilspirit.com/tags/KDE/
 https://www.marsevilspirit.com/tags/todo/
