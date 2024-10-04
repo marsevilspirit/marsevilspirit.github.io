@@ -6,7 +6,7 @@
   <link href="https://www.marsevilspirit.com/atom.xml" rel="self"/>
   
   <link href="https://www.marsevilspirit.com/"/>
-  <updated>2024-10-04T11:29:23.158Z</updated>
+  <updated>2024-10-04T17:18:45.299Z</updated>
   <id>https://www.marsevilspirit.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>RSS订阅的尝试</title>
+    <link href="https://www.marsevilspirit.com/2024/10/05/Getting-start-with-RSS/"/>
+    <id>https://www.marsevilspirit.com/2024/10/05/Getting-start-with-RSS/</id>
+    <published>2024-10-04T17:18:00.000Z</published>
+    <updated>2024-10-04T17:18:45.299Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div</summary>
+        
+      
+    
+    
+    
+    <category term="配置" scheme="https://www.marsevilspirit.com/categories/%E9%85%8D%E7%BD%AE/"/>
+    
+    
+    <category term="RSS" scheme="https://www.marsevilspirit.com/tags/RSS/"/>
+    
+  </entry>
   
   <entry>
     <title>好用的网站</title>
@@ -32,31 +57,6 @@
     
     
     <category term="工具" scheme="https://www.marsevilspirit.com/tags/%E5%B7%A5%E5%85%B7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>dotflies的管理</title>
-    <link href="https://www.marsevilspirit.com/2024/10/03/Getting-start-with-RSS/"/>
-    <id>https://www.marsevilspirit.com/2024/10/03/Getting-start-with-RSS/</id>
-    <published>2024-10-03T15:07:00.000Z</published>
-    <updated>2024-10-04T17:07:10.955Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;div</summary>
-        
-      
-    
-    
-    
-    <category term="技巧" scheme="https://www.marsevilspirit.com/categories/%E6%8A%80%E5%B7%A7/"/>
-    
-    
-    <category term="git" scheme="https://www.marsevilspirit.com/tags/git/"/>
     
   </entry>
   

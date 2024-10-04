@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.marsevilspirit.com/2024/10/03/Getting-start-with-RSS/</loc>
+    <loc>https://www.marsevilspirit.com/2024/10/05/Getting-start-with-RSS/</loc>
     
     <lastmod>2024-10-04</lastmod>
     
@@ -259,6 +259,13 @@
   </url>
   
   <url>
+    <loc>https://www.marsevilspirit.com/tags/RSS/</loc>
+    <lastmod>2024-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.marsevilspirit.com/tags/go/</loc>
     <lastmod>2024-10-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -266,14 +273,14 @@
   </url>
   
   <url>
-    <loc>https://www.marsevilspirit.com/tags/git/</loc>
+    <loc>https://www.marsevilspirit.com/tags/%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
     <lastmod>2024-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.marsevilspirit.com/tags/%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
+    <loc>https://www.marsevilspirit.com/tags/git/</loc>
     <lastmod>2024-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -345,6 +352,13 @@
   </url>
   
   <url>
+    <loc>https://www.marsevilspirit.com/categories/%E9%85%8D%E7%BD%AE/</loc>
+    <lastmod>2024-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.marsevilspirit.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2024-10-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -374,13 +388,6 @@
   
   <url>
     <loc>https://www.marsevilspirit.com/categories/%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83/%E6%9C%AA%E5%AE%8C%E6%88%90/</loc>
-    <lastmod>2024-10-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.marsevilspirit.com/categories/%E9%85%8D%E7%BD%AE/</loc>
     <lastmod>2024-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
