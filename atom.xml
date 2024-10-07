@@ -71,14 +71,14 @@
     <link href="https://www.marsevilspirit.com/2024/10/03/dotfiles%E7%9A%84%E7%AE%A1%E7%90%86/"/>
     <id>https://www.marsevilspirit.com/2024/10/03/dotfiles%E7%9A%84%E7%AE%A1%E7%90%86/</id>
     <published>2024-10-03T15:07:00.000Z</published>
-    <updated>2024-10-04T09:55:21.893Z</updated>
+    <updated>2024-10-07T23:21:23.924Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;p&gt;由于dotfile越来越多，每一个创建一个git仓库是不现实的。&lt;br&gt;所以我打算创建一个dotfiles的git仓库统一管理。&lt;br&gt;参考farseerfc的博客:&lt;a</summary>
+    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;p&gt;由于dotfile越来越多，每个dotfile创建一个git仓库显然是不现实的。&lt;br&gt;所以我打算创建一个dotfiles的git仓库统一管理。&lt;br&gt;参考farseerfc的博客:&lt;a</summary>
         
       
     
