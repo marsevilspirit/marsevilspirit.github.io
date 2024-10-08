@@ -6,7 +6,7 @@
   <link href="https://www.marsevilspirit.com/atom.xml" rel="self"/>
   
   <link href="https://www.marsevilspirit.com/"/>
-  <updated>2024-10-04T17:18:45.299Z</updated>
+  <updated>2024-10-08T00:28:48.865Z</updated>
   <id>https://www.marsevilspirit.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.marsevilspirit.com/2024/10/05/Getting-start-with-RSS/"/>
     <id>https://www.marsevilspirit.com/2024/10/05/Getting-start-with-RSS/</id>
     <published>2024-10-04T17:18:00.000Z</published>
-    <updated>2024-10-04T17:18:45.299Z</updated>
+    <updated>2024-10-08T00:28:48.865Z</updated>
     
     
       
@@ -46,14 +46,14 @@
     <link href="https://www.marsevilspirit.com/2024/10/04/useful-website/"/>
     <id>https://www.marsevilspirit.com/2024/10/04/useful-website/</id>
     <published>2024-10-04T11:29:00.000Z</published>
-    <updated>2024-10-06T10:54:18.595Z</updated>
+    <updated>2024-10-08T00:34:32.638Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h5 id=&quot;练习打字的网站&quot;&gt;&lt;a href=&quot;#练习打字的网站&quot; class=&quot;headerlink&quot; title=&quot;练习打字的网站:&quot;&gt;&lt;/a&gt;练习打字的网站:&lt;/h5&gt;&lt;p&gt;&lt;a</summary>
+    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;p&gt;&lt;span style=&quot;color:blue;&quot;&gt;练习打字的网站&lt;/span&gt;&lt;br&gt;monkeytype.com : &lt;a</summary>
         
       
     
@@ -115,14 +115,15 @@
     <link href="https://www.marsevilspirit.com/2024/09/27/git-pull%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%BB%E7%BB%93/"/>
     <id>https://www.marsevilspirit.com/2024/09/27/git-pull%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%BB%E7%BB%93/</id>
     <published>2024-09-27T10:58:00.000Z</published>
-    <updated>2024-09-27T13:11:11.595Z</updated>
+    <updated>2024-10-08T00:52:26.701Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h3 id=&quot;git-pull的一些总结&quot;&gt;&lt;a href=&quot;#git-pull的一些总结&quot; class=&quot;headerlink&quot; title=&quot;git pull的一些总结&quot;&gt;&lt;/a&gt;git</summary>
+    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;p&gt;当git pull与远端仓库发生冲突时，要先储存本地仓库在拉取。&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
         
       
     
@@ -217,14 +218,14 @@
     <link href="https://www.marsevilspirit.com/2024/09/24/%E8%BF%9C%E7%A8%8B%E5%88%86%E4%BA%AB%E8%B6%85%E9%95%BF%E6%97%A5%E5%BF%97%E8%BE%93%E5%87%BA%E6%88%96%E7%85%A7%E7%89%87/"/>
     <id>https://www.marsevilspirit.com/2024/09/24/%E8%BF%9C%E7%A8%8B%E5%88%86%E4%BA%AB%E8%B6%85%E9%95%BF%E6%97%A5%E5%BF%97%E8%BE%93%E5%87%BA%E6%88%96%E7%85%A7%E7%89%87/</id>
     <published>2024-09-23T16:31:00.000Z</published>
-    <updated>2024-10-04T09:43:10.957Z</updated>
+    <updated>2024-10-08T00:55:33.816Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h4 id=&quot;日志输出分享&quot;&gt;&lt;a href=&quot;#日志输出分享&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h4 id=&quot;日志输出分享&quot;&gt;&lt;a href=&quot;#日志输出分享&quot; class=&quot;headerlink&quot; title=&quot;日志输出分享&quot;&gt;&lt;/a&gt;日志输出分享&lt;/h4&gt;&lt;p&gt;fars.ee</summary>
         
       
     
@@ -445,15 +446,14 @@
     <link href="https://www.marsevilspirit.com/2024/09/17/arch-change-key/"/>
     <id>https://www.marsevilspirit.com/2024/09/17/arch-change-key/</id>
     <published>2024-09-17T07:11:00.000Z</published>
-    <updated>2024-09-27T18:24:35.359Z</updated>
+    <updated>2024-10-08T00:57:46.343Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;p&gt;这是我苦苦寻找最好的方法，无需其他软件，直接开机自启。&lt;br&gt;这个方法需要桌面环境X11。&lt;/p&gt;
-&lt;h3 id=&quot;永久修改的方法&quot;&gt;&lt;a href=&quot;#永久修改的方法&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;div</summary>
         
       
     
