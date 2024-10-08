@@ -6,7 +6,7 @@
   <link href="https://www.marsevilspirit.com/atom.xml" rel="self"/>
   
   <link href="https://www.marsevilspirit.com/"/>
-  <updated>2024-10-08T00:28:48.865Z</updated>
+  <updated>2024-10-08T18:19:27.812Z</updated>
   <id>https://www.marsevilspirit.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Arch Linux 的安装</title>
+    <link href="https://www.marsevilspirit.com/2024/10/09/arch-linux-install/"/>
+    <id>https://www.marsevilspirit.com/2024/10/09/arch-linux-install/</id>
+    <published>2024-10-08T17:04:00.000Z</published>
+    <updated>2024-10-08T18:19:27.812Z</updated>
+    
+    
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    <category term="技术" scheme="https://www.marsevilspirit.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="Linux" scheme="https://www.marsevilspirit.com/tags/Linux/"/>
+    
+  </entry>
   
   <entry>
     <title>RSS订阅的尝试</title>
@@ -488,31 +507,6 @@
     
     
     <category term="CLI" scheme="https://www.marsevilspirit.com/tags/CLI/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>GO 的reflect库学习笔记</title>
-    <link href="https://www.marsevilspirit.com/2024/09/16/Go-reflect-learn-note/"/>
-    <id>https://www.marsevilspirit.com/2024/09/16/Go-reflect-learn-note/</id>
-    <published>2024-09-15T22:40:00.000Z</published>
-    <updated>2024-09-16T23:17:30.956Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h3 id=&quot;GO-的-reflect-库&quot;&gt;&lt;a href=&quot;#GO-的-reflect-库&quot; class=&quot;headerlink&quot; title=&quot;GO 的 reflect 库&quot;&gt;&lt;/a&gt;GO 的 reflect</summary>
-        
-      
-    
-    
-    
-    <category term="学习笔记" scheme="https://www.marsevilspirit.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
-    
-    <category term="go" scheme="https://www.marsevilspirit.com/tags/go/"/>
     
   </entry>
   
