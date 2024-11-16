@@ -6,7 +6,7 @@
   <link href="https://www.marsevilspirit.com/atom.xml" rel="self"/>
   
   <link href="https://www.marsevilspirit.com/"/>
-  <updated>2024-10-28T11:20:52.819Z</updated>
+  <updated>2024-11-16T15:13:55.050Z</updated>
   <id>https://www.marsevilspirit.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>nvim使用cmake找不到头文件问题</title>
+    <link href="https://www.marsevilspirit.com/2024/11/16/nvim_cmake_header_problem/"/>
+    <id>https://www.marsevilspirit.com/2024/11/16/nvim_cmake_header_problem/</id>
+    <published>2024-11-16T15:01:00.000Z</published>
+    <updated>2024-11-16T15:13:55.050Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;p&gt;在 CMakeList.txt 添加&lt;/p&gt;
+&lt;figure class=&quot;highlight cmake&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="配置" scheme="https://www.marsevilspirit.com/categories/%E9%85%8D%E7%BD%AE/"/>
+    
+    
+    <category term="cmake" scheme="https://www.marsevilspirit.com/tags/cmake/"/>
+    
+  </entry>
   
   <entry>
     <title>go test的可视化覆盖率</title>
@@ -486,31 +512,6 @@
     
     
     <category term="桌面环境" scheme="https://www.marsevilspirit.com/categories/%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83/"/>
-    
-    
-    <category term="CLI" scheme="https://www.marsevilspirit.com/tags/CLI/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>arch linux系统永久改键</title>
-    <link href="https://www.marsevilspirit.com/2024/09/17/arch-change-key/"/>
-    <id>https://www.marsevilspirit.com/2024/09/17/arch-change-key/</id>
-    <published>2024-09-17T07:11:00.000Z</published>
-    <updated>2024-10-08T00:57:46.343Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;div</summary>
-        
-      
-    
-    
-    
-    <category term="工具" scheme="https://www.marsevilspirit.com/categories/%E5%B7%A5%E5%85%B7/"/>
     
     
     <category term="CLI" scheme="https://www.marsevilspirit.com/tags/CLI/"/>
