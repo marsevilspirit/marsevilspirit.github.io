@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'LGFont';
+    src: url('../fonts/LXGW/lg.woff2') format('woff2'),
+         url('../fonts/LXGW/lg.woff') format('woff'),
+         url('../fonts/LXGW/lg.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    unicode-range: U+4E00-U+9FA5; /* 只应用于中文字符 */
+}
+
+@font-face {
+    font-family: 'LXGWWenKaiLite';
+    src: url('../fonts/LXGW/LXGWWenKaiLite-Regular.woff2') format('woff2'),
+         url('../fonts/LXGW/LXGWWenKaiLite-Bold.woff2') format('woff2');
+    font-weight: normal; /* 正常的字体 */
+    font-style: normal;
+    unicode-range: U+4E00-U+9FA5; /* 只应用于中文字符 */
+}
+
+@font-face {
+    font-family: 'NotoSerifSC';
+    src: url('../fonts/LXGW/notoserifsc-medium-webfont.woff') format('woff'),
+         url('../fonts/LXGW/notoserifsc-medium-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    unicode-range: U+4E00-U+9FA5; /* 只应用于中文字符 */
+}

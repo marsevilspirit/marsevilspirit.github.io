@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.marsevilspirit.com/2024/11/16/nvim_cmake_header_problem/</loc>
-    <lastmod>2024-11-16</lastmod>
+    <loc>https://www.marsevilspirit.com/2013/12/24/test/</loc>
+    <lastmod>2024-11-28</lastmod>
   </url>
   <url>
     <loc>https://www.marsevilspirit.com/2024/10/27/go-test-coverage/</loc>
-    <lastmod>2024-10-28</lastmod>
+    <lastmod>2024-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://www.marsevilspirit.com/2024/11/16/nvim_cmake_header_problem/</loc>
+    <lastmod>2024-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://www.marsevilspirit.com/2024/09/17/Adjust-screen-brightness-cli/</loc>
+    <lastmod>2024-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://www.marsevilspirit.com/2024/09/17/20240917%E4%B8%AD%E7%A7%8B/</loc>
+    <lastmod>2024-11-20</lastmod>
   </url>
   <url>
     <loc>https://www.marsevilspirit.com/2024/10/09/arch-linux-install/</loc>
@@ -61,10 +73,6 @@
     <lastmod>2024-09-29</lastmod>
   </url>
   <url>
-    <loc>https://www.marsevilspirit.com/2024/09/17/20240917%E4%B8%AD%E7%A7%8B/</loc>
-    <lastmod>2024-09-24</lastmod>
-  </url>
-  <url>
     <loc>https://www.marsevilspirit.com/2024/09/24/kde-connect%E8%AE%A9%E6%88%91%E9%9C%87%E6%83%8A/</loc>
     <lastmod>2024-09-24</lastmod>
   </url>
@@ -86,10 +94,6 @@
   </url>
   <url>
     <loc>https://www.marsevilspirit.com/2024/09/16/Go-reflect-learn-note/</loc>
-    <lastmod>2024-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://www.marsevilspirit.com/2024/09/17/Adjust-screen-brightness-cli/</loc>
     <lastmod>2024-09-16</lastmod>
   </url>
 </urlset> 

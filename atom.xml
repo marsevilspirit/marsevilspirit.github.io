@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>marsevilspirit</title>
+  <title>marsevilspirit&#39;s blog</title>
   <icon>https://www.marsevilspirit.com/icon.png</icon>
   
   <link href="https://www.marsevilspirit.com/atom.xml" rel="self"/>
   
   <link href="https://www.marsevilspirit.com/"/>
-  <updated>2024-11-16T15:13:55.050Z</updated>
+  <updated>2024-11-28T20:22:24.607Z</updated>
   <id>https://www.marsevilspirit.com/</id>
   
   <author>
@@ -17,19 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>nvim使用cmake找不到头文件问题</title>
+    <title>Neovim CMake Cannot Find Header Files</title>
     <link href="https://www.marsevilspirit.com/2024/11/16/nvim_cmake_header_problem/"/>
     <id>https://www.marsevilspirit.com/2024/11/16/nvim_cmake_header_problem/</id>
     <published>2024-11-16T15:01:00.000Z</published>
-    <updated>2024-11-16T15:13:55.050Z</updated>
+    <updated>2024-11-28T20:22:24.607Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;p&gt;在 CMakeList.txt 添加&lt;/p&gt;
-&lt;figure class=&quot;highlight cmake&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span</summary>
+    <summary type="html">&lt;p&gt;Add to CMakeList.txt:&lt;br&gt;set(CMAKE_EXPORT_COMPILE_COMMANDS ON)&lt;/p&gt;
+&lt;p&gt;This will generate a compile_commands.json file, which records</summary>
         
       
     
@@ -43,18 +43,18 @@
   </entry>
   
   <entry>
-    <title>go test的可视化覆盖率</title>
+    <title>Go test visual coverage</title>
     <link href="https://www.marsevilspirit.com/2024/10/27/go-test-coverage/"/>
     <id>https://www.marsevilspirit.com/2024/10/27/go-test-coverage/</id>
     <published>2024-10-26T18:24:00.000Z</published>
-    <updated>2024-10-28T11:20:52.819Z</updated>
+    <updated>2024-11-28T20:57:41.542Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h3 id=&quot;在-Go-中生成覆盖率报告&quot;&gt;&lt;a href=&quot;#在-Go-中生成覆盖率报告&quot; class=&quot;headerlink&quot; title=&quot;在 Go 中生成覆盖率报告&quot;&gt;&lt;/a&gt;在 Go</summary>
+    <summary type="html">&lt;h3 id=&quot;Generating-Coverage-Reports-in-Go&quot;&gt;&lt;a href=&quot;#Generating-Coverage-Reports-in-Go&quot; class=&quot;headerlink&quot; title=&quot;Generating Coverage</summary>
         
       
     
@@ -79,8 +79,8 @@
       
         
         
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;p&gt;开始之前先听首歌放松一下。&lt;/p&gt;
-&lt;iframe allow=&quot;autoplay *; encrypted-media *; fullscreen *; clipboard-write&quot;</summary>
+    <summary type="html">&lt;p&gt;开始之前先听首歌放松一下。&lt;/p&gt;
+&lt;iframe allow=&quot;autoplay *; encrypted-media *; fullscreen *; clipboard-write&quot; frameborder=&quot;0&quot; height=&quot;175&quot;</summary>
         
       
     
@@ -105,7 +105,9 @@
       
         
         
-    <summary type="html">&lt;div</summary>
+    <summary type="html">&lt;p&gt;最近了解到RSS订阅，感觉这种方式可以很好的避免信息内耗。当今大数据往人脑里硬塞四面八方的信息，就像&lt;strong&gt;抖音&lt;/strong&gt;一样，一拿起就停不下来，浪费了很长时间。&lt;/p&gt;
+&lt;p&gt;用RSS订阅就能很好地解决这个问题，所以我打算尝试一下。&lt;/p&gt;
+&lt;p&gt;我选择了</summary>
         
       
     
@@ -130,7 +132,8 @@
       
         
         
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;p&gt;&lt;span style=&quot;color:blue;&quot;&gt;练习打字的网站&lt;/span&gt;&lt;br&gt;monkeytype.com : &lt;a</summary>
+    <summary type="html">&lt;p&gt;&lt;span style=&quot;color:blue;&quot;&gt;练习打字的网站&lt;/span&gt;&lt;br&gt;monkeytype.com : &lt;a href=&quot;https://monkeytype.com/&quot;&gt;https://monkeytype.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span</summary>
         
       
     
@@ -155,7 +158,7 @@
       
         
         
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;p&gt;由于dotfile越来越多，每个dotfile创建一个git仓库显然是不现实的。&lt;br&gt;所以我打算创建一个dotfiles的git仓库统一管理。&lt;br&gt;参考farseerfc的博客:&lt;a</summary>
+    <summary type="html">&lt;p&gt;由于dotfile越来越多，每个dotfile创建一个git仓库显然是不现实的。&lt;br&gt;所以我打算创建一个dotfiles的git仓库统一管理。&lt;br&gt;参考farseerfc的博客:&lt;a</summary>
         
       
     
@@ -199,8 +202,8 @@
       
         
         
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;p&gt;当git pull与远端仓库发生冲突时，要先储存本地仓库在拉取。&lt;/p&gt;
-&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+    <summary type="html">&lt;p&gt;当git pull与远端仓库发生冲突时，要先储存本地仓库在拉取。&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span</summary>
         
       
     
@@ -225,7 +228,7 @@
       
         
         
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h3 id=&quot;notify-send和dunst的配置和使用&quot;&gt;&lt;a href=&quot;#notify-send和dunst的配置和使用&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h3 id=&quot;notify-send和dunst的配置和使用&quot;&gt;&lt;a href=&quot;#notify-send和dunst的配置和使用&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -250,8 +253,8 @@
       
         
         
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;p&gt;所有的配置文件我都放到了&lt;a href=&quot;https://github.com/marsevilspirit/dotfiles&quot;&gt;dotflie&lt;/a&gt;仓库中&lt;/p&gt;
-&lt;h3 id=&quot;i3的安装和配置&quot;&gt;&lt;a</summary>
+    <summary type="html">&lt;p&gt;所有的配置文件我都放到了&lt;a href=&quot;https://github.com/marsevilspirit/dotfiles&quot;&gt;dotflie&lt;/a&gt;仓库中&lt;/p&gt;
+&lt;h3 id=&quot;i3的安装和配置&quot;&gt;&lt;a href=&quot;#i3的安装和配置&quot;</summary>
         
       
     
@@ -276,8 +279,8 @@
       
         
         
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;p&gt;今天，我被KDE Connect狠狠的震惊到了。&lt;br&gt;它可以使手机和电脑之间实现无缝连接。&lt;/p&gt;
-&lt;h3 id=&quot;KDE-Connect的安装&quot;&gt;&lt;a href=&quot;#KDE-Connect的安装&quot;</summary>
+    <summary type="html">&lt;p&gt;今天，我被KDE Connect狠狠的震惊到了。&lt;br&gt;它可以使手机和电脑之间实现无缝连接。&lt;/p&gt;
+&lt;h3 id=&quot;KDE-Connect的安装&quot;&gt;&lt;a href=&quot;#KDE-Connect的安装&quot; class=&quot;headerlink&quot; title=&quot;KDE</summary>
         
       
     
@@ -302,7 +305,7 @@
       
         
         
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h4 id=&quot;日志输出分享&quot;&gt;&lt;a href=&quot;#日志输出分享&quot; class=&quot;headerlink&quot; title=&quot;日志输出分享&quot;&gt;&lt;/a&gt;日志输出分享&lt;/h4&gt;&lt;p&gt;fars.ee</summary>
+    <summary type="html">&lt;h4 id=&quot;日志输出分享&quot;&gt;&lt;a href=&quot;#日志输出分享&quot; class=&quot;headerlink&quot; title=&quot;日志输出分享&quot;&gt;&lt;/a&gt;日志输出分享&lt;/h4&gt;&lt;p&gt;fars.ee 是一个在线服务，可以将你的日志输出转换成一个短链接，方便与别人分享,</summary>
         
       
     
@@ -327,7 +330,7 @@
       
         
         
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h1 id=&quot;成功于2024-9-25-wayland配置成功&quot;&gt;&lt;a href=&quot;#成功于2024-9-25-wayland配置成功&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h1 id=&quot;成功于2024-9-25-wayland配置成功&quot;&gt;&lt;a href=&quot;#成功于2024-9-25-wayland配置成功&quot; class=&quot;headerlink&quot; title=&quot;成功于2024&amp;#x2F;9&amp;#x2F;25</summary>
         
       
     
@@ -356,8 +359,8 @@
       
         
         
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;p&gt;eza是一个用Rust编写的现代化的ls替代工具，它提供了更多的功能和更好的用户体验。&lt;/p&gt;
-&lt;h3 id=&quot;安装eza&quot;&gt;&lt;a href=&quot;#安装eza&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;p&gt;eza是一个用Rust编写的现代化的ls替代工具，它提供了更多的功能和更好的用户体验。&lt;/p&gt;
+&lt;h3 id=&quot;安装eza&quot;&gt;&lt;a href=&quot;#安装eza&quot; class=&quot;headerlink&quot; title=&quot;安装eza&quot;&gt;&lt;/a&gt;安装eza&lt;/h3&gt;&lt;figure</summary>
         
       
     
@@ -382,7 +385,7 @@
       
         
         
-    <summary type="html">&lt;div</summary>
+    <summary type="html">&lt;p&gt;cheat是一个用&lt;code&gt;go&lt;/code&gt;写的命令行工具，它允许你查看和创建自定义的命令行备忘单。它的使用非常简单，只需要输入&lt;code&gt;cheat&lt;/code&gt;命令，后面跟上你想要查询的命令即可。如果你想要创建一个新的备忘单，只需要输入&lt;code&gt;cheat</summary>
         
       
     
@@ -407,7 +410,8 @@
       
         
         
-    <summary type="html">&lt;div</summary>
+    <summary type="html">&lt;p&gt;在Linux中，&lt;code&gt;cat&lt;/code&gt;、&lt;code&gt;find&lt;/code&gt;和&lt;code&gt;df&lt;/code&gt;是最常用的命令之一。但是，这些命令有一些现代替代品，它们提供了更多的功能和更好的用户体验。&lt;/p&gt;
+&lt;h3 id=&quot;bat&quot;&gt;&lt;a href=&quot;#bat&quot;</summary>
         
       
     
@@ -432,8 +436,8 @@
       
         
         
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;p&gt;zoxid是一个用Rust编写的现代化的cd替代工具，它提供了方便的方法进入目录。&lt;/p&gt;
-&lt;h3 id=&quot;安装-zoxide&quot;&gt;&lt;a href=&quot;#安装-zoxide&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;p&gt;zoxid是一个用Rust编写的现代化的cd替代工具，它提供了方便的方法进入目录。&lt;/p&gt;
+&lt;h3 id=&quot;安装-zoxide&quot;&gt;&lt;a href=&quot;#安装-zoxide&quot; class=&quot;headerlink&quot; title=&quot;安装 zoxide&quot;&gt;&lt;/a&gt;安装</summary>
         
       
     
@@ -458,7 +462,7 @@
       
         
         
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;p&gt;今天电装实习，突然对在Linux下写单片机代码和烧录产生了兴趣，&lt;br&gt;特意研究一番，记录一下。&lt;/p&gt;
+    <summary type="html">&lt;p&gt;今天电装实习，突然对在Linux下写单片机代码和烧录产生了兴趣，&lt;br&gt;特意研究一番，记录一下。&lt;/p&gt;
 &lt;h3 id=&quot;准备工具&quot;&gt;&lt;a href=&quot;#准备工具&quot; class=&quot;headerlink&quot;</summary>
         
       
@@ -479,7 +483,7 @@
     <link href="https://www.marsevilspirit.com/2024/09/17/20240917%E4%B8%AD%E7%A7%8B/"/>
     <id>https://www.marsevilspirit.com/2024/09/17/20240917%E4%B8%AD%E7%A7%8B/</id>
     <published>2024-09-17T15:53:00.000Z</published>
-    <updated>2024-09-24T11:28:29.223Z</updated>
+    <updated>2024-11-20T18:30:27.694Z</updated>
     
     
     <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
@@ -505,7 +509,8 @@
       
         
         
-    <summary type="html">&lt;div class=&quot;.article-gallery&quot;&gt;&lt;h3 id=&quot;fish的配置&quot;&gt;&lt;a href=&quot;#fish的配置&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h3 id=&quot;fish的配置&quot;&gt;&lt;a href=&quot;#fish的配置&quot; class=&quot;headerlink&quot; title=&quot;fish的配置&quot;&gt;&lt;/a&gt;fish的配置&lt;/h3&gt;&lt;p&gt;今天心血来潮，想试试现代shell是什么感觉。&lt;/p&gt;
+&lt;h4 id=&quot;下载fish&quot;&gt;&lt;a</summary>
         
       
     
