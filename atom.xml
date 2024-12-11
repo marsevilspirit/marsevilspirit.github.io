@@ -6,7 +6,7 @@
   <link href="https://www.marsevilspirit.com/atom.xml" rel="self"/>
   
   <link href="https://www.marsevilspirit.com/"/>
-  <updated>2024-12-04T03:16:39.298Z</updated>
+  <updated>2024-12-11T17:40:46.395Z</updated>
   <id>https://www.marsevilspirit.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>java初体验</title>
+    <link href="https://www.marsevilspirit.com/2024/12/12/java_first/"/>
+    <id>https://www.marsevilspirit.com/2024/12/12/java_first/</id>
+    <published>2024-12-11T17:31:00.000Z</published>
+    <updated>2024-12-11T17:40:46.395Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;为了更好的理解seata的使用，我开始零基础硬看java代码。下了idea，安装了jdk，然后一行java代码都没写过，就开始了seata的源码阅读。&lt;/p&gt;
+&lt;p&gt;在刚开始，idea一直在报错，说是import不知道什么东西没有，我就开始疯狂chat。&lt;/p&gt;
+&lt;p&gt;最后</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="https://www.marsevilspirit.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="CLI" scheme="https://www.marsevilspirit.com/tags/CLI/"/>
+    
+  </entry>
   
   <entry>
     <title>Neovim CMake Cannot Find Header Files</title>
@@ -494,32 +521,6 @@
     
     
     <category term="闲话" scheme="https://www.marsevilspirit.com/tags/%E9%97%B2%E8%AF%9D/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>fish的配置</title>
-    <link href="https://www.marsevilspirit.com/2024/09/17/fish%E7%9A%84%E9%85%8D%E7%BD%AE/"/>
-    <id>https://www.marsevilspirit.com/2024/09/17/fish%E7%9A%84%E9%85%8D%E7%BD%AE/</id>
-    <published>2024-09-17T10:20:00.000Z</published>
-    <updated>2024-09-30T00:07:33.746Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h3 id=&quot;fish的配置&quot;&gt;&lt;a href=&quot;#fish的配置&quot; class=&quot;headerlink&quot; title=&quot;fish的配置&quot;&gt;&lt;/a&gt;fish的配置&lt;/h3&gt;&lt;p&gt;今天心血来潮，想试试现代shell是什么感觉。&lt;/p&gt;
-&lt;h4 id=&quot;下载fish&quot;&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="桌面环境" scheme="https://www.marsevilspirit.com/categories/%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83/"/>
-    
-    
-    <category term="CLI" scheme="https://www.marsevilspirit.com/tags/CLI/"/>
     
   </entry>
   
