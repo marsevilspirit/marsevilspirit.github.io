@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>marsevilspirit&#39;s blog</title>
+  <icon>https://www.marsevilspirit.com/icon.png</icon>
+  
+  <link href="https://www.marsevilspirit.com/atom.xml" rel="self"/>
+  
+  <link href="https://www.marsevilspirit.com/"/>
+  <updated>2025-04-09T07:12:42.762Z</updated>
+  <id>https://www.marsevilspirit.com/</id>
+  
+  <author>
+    <name>marsevilspirit</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>RSS订阅的尝试</title>
+    <link href="https://www.marsevilspirit.com/2025/04/09/Getting-start-with-RSS/"/>
+    <id>https://www.marsevilspirit.com/2025/04/09/Getting-start-with-RSS/</id>
+    <published>2025-04-09T07:11:00.000Z</published>
+    <updated>2025-04-09T07:12:42.762Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;RSS订阅，感觉这种方式可以很好的避免信息内耗。当今大数据往人脑里硬塞四面八方的信息，就像抖音一样，一拿起就停不下来，浪费了很长时间，用RSS订阅就能很好地解决这个问题。&lt;/p&gt;
+&lt;p&gt;我选择了 Follow</summary>
+        
+      
+    
+    
+    
+    <category term="配置" scheme="https://www.marsevilspirit.com/categories/%E9%85%8D%E7%BD%AE/"/>
+    
+    
+    <category term="RSS" scheme="https://www.marsevilspirit.com/tags/RSS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Neovim CMake Cannot Find Header Files</title>
+    <link href="https://www.marsevilspirit.com/2024/11/16/nvim_cmake_header_problem/"/>
+    <id>https://www.marsevilspirit.com/2024/11/16/nvim_cmake_header_problem/</id>
+    <published>2024-11-16T15:01:00.000Z</published>
+    <updated>2025-03-22T05:50:23.825Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Add to CMakeList.txt:&lt;/p&gt;
+&lt;figure class=&quot;highlight cmake&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="配置" scheme="https://www.marsevilspirit.com/categories/%E9%85%8D%E7%BD%AE/"/>
+    
+    
+    <category term="cmake" scheme="https://www.marsevilspirit.com/tags/cmake/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>archlinux 的安装</title>
+    <link href="https://www.marsevilspirit.com/2024/10/09/arch-linux-install/"/>
+    <id>https://www.marsevilspirit.com/2024/10/09/arch-linux-install/</id>
+    <published>2024-10-08T17:04:00.000Z</published>
+    <updated>2025-03-22T05:50:23.824Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;开始之前先听首歌放松一下。&lt;/p&gt;
+&lt;iframe allow=&quot;autoplay *; encrypted-media *; fullscreen *; clipboard-write&quot; frameborder=&quot;0&quot; height=&quot;175&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="https://www.marsevilspirit.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="Linux" scheme="https://www.marsevilspirit.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>好用的网站</title>
+    <link href="https://www.marsevilspirit.com/2024/10/04/useful-website/"/>
+    <id>https://www.marsevilspirit.com/2024/10/04/useful-website/</id>
+    <published>2024-10-04T11:29:00.000Z</published>
+    <updated>2025-03-22T05:50:23.825Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;span style=&quot;color:blue;&quot;&gt;练习打字的网站&lt;/span&gt;&lt;br&gt;monkeytype.com : &lt;a href=&quot;https://monkeytype.com/&quot;&gt;https://monkeytype.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="网站" scheme="https://www.marsevilspirit.com/categories/%E7%BD%91%E7%AB%99/"/>
+    
+    
+    <category term="工具" scheme="https://www.marsevilspirit.com/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>dotflies的管理</title>
+    <link href="https://www.marsevilspirit.com/2024/10/03/dotfiles%E7%9A%84%E7%AE%A1%E7%90%86/"/>
+    <id>https://www.marsevilspirit.com/2024/10/03/dotfiles%E7%9A%84%E7%AE%A1%E7%90%86/</id>
+    <published>2024-10-03T15:07:00.000Z</published>
+    <updated>2025-03-22T05:50:23.824Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;由于dotfile越来越多，每个dotfile创建一个git仓库显然是不现实的。&lt;br&gt;所以我打算创建一个dotfiles的git仓库统一管理。&lt;br&gt;参考farseerfc的博客:&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="技巧" scheme="https://www.marsevilspirit.com/categories/%E6%8A%80%E5%B7%A7/"/>
+    
+    
+    <category term="git" scheme="https://www.marsevilspirit.com/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我惯用的字体</title>
+    <link href="https://www.marsevilspirit.com/2024/09/28/%E6%88%91%E6%83%AF%E7%94%A8%E7%9A%84%E5%AD%97%E4%BD%93/"/>
+    <id>https://www.marsevilspirit.com/2024/09/28/%E6%88%91%E6%83%AF%E7%94%A8%E7%9A%84%E5%AD%97%E4%BD%93/</id>
+    <published>2024-09-28T06:42:00.000Z</published>
+    <updated>2025-03-22T05:50:23.825Z</updated>
+    
+    
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    <category term="配置" scheme="https://www.marsevilspirit.com/categories/%E9%85%8D%E7%BD%AE/"/>
+    
+    
+    <category term="字体" scheme="https://www.marsevilspirit.com/tags/%E5%AD%97%E4%BD%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git 的一些总结</title>
+    <link href="https://www.marsevilspirit.com/2024/09/27/git-pull%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%BB%E7%BB%93/"/>
+    <id>https://www.marsevilspirit.com/2024/09/27/git-pull%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%BB%E7%BB%93/</id>
+    <published>2024-09-27T10:58:00.000Z</published>
+    <updated>2025-04-09T07:16:10.986Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;当git pull与远端仓库发生冲突时，要先储存本地仓库在拉取。&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="技巧" scheme="https://www.marsevilspirit.com/categories/%E6%8A%80%E5%B7%A7/"/>
+    
+    
+    <category term="git" scheme="https://www.marsevilspirit.com/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>notify-send和dunst的配置和使用</title>
+    <link href="https://www.marsevilspirit.com/2024/09/26/notify-send%E5%92%8Cdunst%E7%9A%84%E9%85%8D%E7%BD%AE%E5%92%8C%E4%BD%BF%E7%94%A8/"/>
+    <id>https://www.marsevilspirit.com/2024/09/26/notify-send%E5%92%8Cdunst%E7%9A%84%E9%85%8D%E7%BD%AE%E5%92%8C%E4%BD%BF%E7%94%A8/</id>
+    <published>2024-09-26T12:06:00.000Z</published>
+    <updated>2025-03-22T05:50:23.825Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;notify-send和dunst的配置和使用&quot;&gt;&lt;a href=&quot;#notify-send和dunst的配置和使用&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="https://www.marsevilspirit.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="CLI" scheme="https://www.marsevilspirit.com/tags/CLI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>i3的安装和配置</title>
+    <link href="https://www.marsevilspirit.com/2024/09/26/i3%E7%9A%84%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AE/"/>
+    <id>https://www.marsevilspirit.com/2024/09/26/i3%E7%9A%84%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AE/</id>
+    <published>2024-09-26T08:50:00.000Z</published>
+    <updated>2025-03-22T05:50:23.824Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;所有的配置文件我都放到了&lt;a href=&quot;https://github.com/marsevilspirit/dotfiles&quot;&gt;dotflie&lt;/a&gt;仓库中&lt;/p&gt;
+&lt;h3 id=&quot;i3的安装和配置&quot;&gt;&lt;a href=&quot;#i3的安装和配置&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="桌面环境" scheme="https://www.marsevilspirit.com/categories/%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83/"/>
+    
+    
+    <category term="i3" scheme="https://www.marsevilspirit.com/tags/i3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>KDE Connect让我震惊</title>
+    <link href="https://www.marsevilspirit.com/2024/09/24/kde-connect%E8%AE%A9%E6%88%91%E9%9C%87%E6%83%8A/"/>
+    <id>https://www.marsevilspirit.com/2024/09/24/kde-connect%E8%AE%A9%E6%88%91%E9%9C%87%E6%83%8A/</id>
+    <published>2024-09-24T08:14:00.000Z</published>
+    <updated>2025-03-22T05:50:23.825Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今天，我被KDE Connect狠狠的震惊到了。&lt;br&gt;它可以使手机和电脑之间实现无缝连接。&lt;/p&gt;
+&lt;h3 id=&quot;KDE-Connect的安装&quot;&gt;&lt;a href=&quot;#KDE-Connect的安装&quot; class=&quot;headerlink&quot; title=&quot;KDE</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="https://www.marsevilspirit.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="KDE" scheme="https://www.marsevilspirit.com/tags/KDE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>远程分享超长日志输出或照片</title>
+    <link href="https://www.marsevilspirit.com/2024/09/24/%E8%BF%9C%E7%A8%8B%E5%88%86%E4%BA%AB%E8%B6%85%E9%95%BF%E6%97%A5%E5%BF%97%E8%BE%93%E5%87%BA%E6%88%96%E7%85%A7%E7%89%87/"/>
+    <id>https://www.marsevilspirit.com/2024/09/24/%E8%BF%9C%E7%A8%8B%E5%88%86%E4%BA%AB%E8%B6%85%E9%95%BF%E6%97%A5%E5%BF%97%E8%BE%93%E5%87%BA%E6%88%96%E7%85%A7%E7%89%87/</id>
+    <published>2024-09-23T16:31:00.000Z</published>
+    <updated>2025-03-22T05:50:23.825Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h4 id=&quot;日志输出分享&quot;&gt;&lt;a href=&quot;#日志输出分享&quot; class=&quot;headerlink&quot; title=&quot;日志输出分享&quot;&gt;&lt;/a&gt;日志输出分享&lt;/h4&gt;&lt;p&gt;fars.ee 是一个在线服务，可以将你的日志输出转换成一个短链接，方便与别人分享,</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="https://www.marsevilspirit.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="CLI" scheme="https://www.marsevilspirit.com/tags/CLI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>nvidia显卡使用wayland的一些尝试</title>
+    <link href="https://www.marsevilspirit.com/2024/09/23/nvidia%E6%98%BE%E5%8D%A1%E4%BD%BF%E7%94%A8wayland%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%9D%E8%AF%95/"/>
+    <id>https://www.marsevilspirit.com/2024/09/23/nvidia%E6%98%BE%E5%8D%A1%E4%BD%BF%E7%94%A8wayland%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%9D%E8%AF%95/</id>
+    <published>2024-09-23T02:00:00.000Z</published>
+    <updated>2025-03-22T05:50:23.825Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;成功于2024-9-25-wayland配置成功&quot;&gt;&lt;a href=&quot;#成功于2024-9-25-wayland配置成功&quot; class=&quot;headerlink&quot; title=&quot;成功于2024&amp;#x2F;9&amp;#x2F;25</summary>
+        
+      
+    
+    
+    
+    <category term="桌面环境" scheme="https://www.marsevilspirit.com/categories/%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83/"/>
+    
+    <category term="未完成" scheme="https://www.marsevilspirit.com/categories/%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83/%E6%9C%AA%E5%AE%8C%E6%88%90/"/>
+    
+    
+    <category term="nvidia" scheme="https://www.marsevilspirit.com/tags/nvidia/"/>
+    
+    <category term="wayland" scheme="https://www.marsevilspirit.com/tags/wayland/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用eza替代ls</title>
+    <link href="https://www.marsevilspirit.com/2024/09/21/%E7%94%A8eza%E6%9B%BF%E4%BB%A3ls/"/>
+    <id>https://www.marsevilspirit.com/2024/09/21/%E7%94%A8eza%E6%9B%BF%E4%BB%A3ls/</id>
+    <published>2024-09-21T12:38:00.000Z</published>
+    <updated>2025-03-22T05:50:23.825Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;eza是一个用Rust编写的现代化的ls替代工具，它提供了更多的功能和更好的用户体验。&lt;/p&gt;
+&lt;h3 id=&quot;安装eza&quot;&gt;&lt;a href=&quot;#安装eza&quot; class=&quot;headerlink&quot; title=&quot;安装eza&quot;&gt;&lt;/a&gt;安装eza&lt;/h3&gt;&lt;figure</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="https://www.marsevilspirit.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="CLI" scheme="https://www.marsevilspirit.com/tags/CLI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>cheat命令的妙用</title>
+    <link href="https://www.marsevilspirit.com/2024/09/21/cheat%E5%91%BD%E4%BB%A4%E7%9A%84%E5%A6%99%E7%94%A8/"/>
+    <id>https://www.marsevilspirit.com/2024/09/21/cheat%E5%91%BD%E4%BB%A4%E7%9A%84%E5%A6%99%E7%94%A8/</id>
+    <published>2024-09-21T11:11:00.000Z</published>
+    <updated>2025-03-22T05:50:23.824Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;cheat是一个用&lt;code&gt;go&lt;/code&gt;写的命令行工具，它允许你查看和创建自定义的命令行备忘单。它的使用非常简单，只需要输入&lt;code&gt;cheat&lt;/code&gt;命令，后面跟上你想要查询的命令即可。如果你想要创建一个新的备忘单，只需要输入&lt;code&gt;cheat</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="https://www.marsevilspirit.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="CLI" scheme="https://www.marsevilspirit.com/tags/CLI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>cat、find、df的现代替代品</title>
+    <link href="https://www.marsevilspirit.com/2024/09/21/cat-find-df%E7%9A%84%E7%8E%B0%E4%BB%A3%E6%9B%BF%E4%BB%A3%E5%93%81/"/>
+    <id>https://www.marsevilspirit.com/2024/09/21/cat-find-df%E7%9A%84%E7%8E%B0%E4%BB%A3%E6%9B%BF%E4%BB%A3%E5%93%81/</id>
+    <published>2024-09-20T18:19:00.000Z</published>
+    <updated>2025-03-22T05:50:23.824Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在Linux中，&lt;code&gt;cat&lt;/code&gt;、&lt;code&gt;find&lt;/code&gt;和&lt;code&gt;df&lt;/code&gt;是最常用的命令之一。但是，这些命令有一些现代替代品，它们提供了更多的功能和更好的用户体验。&lt;/p&gt;
+&lt;h3 id=&quot;bat&quot;&gt;&lt;a href=&quot;#bat&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="https://www.marsevilspirit.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="CLI" scheme="https://www.marsevilspirit.com/tags/CLI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用zoxide替代cd</title>
+    <link href="https://www.marsevilspirit.com/2024/09/20/%E7%94%A8zoxid%E6%9B%BF%E6%8D%A2cd/"/>
+    <id>https://www.marsevilspirit.com/2024/09/20/%E7%94%A8zoxid%E6%9B%BF%E6%8D%A2cd/</id>
+    <published>2024-09-20T11:10:00.000Z</published>
+    <updated>2025-03-22T05:50:23.825Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;zoxid是一个用Rust编写的现代化的cd替代工具，它提供了方便的方法进入目录。&lt;/p&gt;
+&lt;h3 id=&quot;安装-zoxide&quot;&gt;&lt;a href=&quot;#安装-zoxide&quot; class=&quot;headerlink&quot; title=&quot;安装 zoxide&quot;&gt;&lt;/a&gt;安装</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="https://www.marsevilspirit.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="CLI" scheme="https://www.marsevilspirit.com/tags/CLI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux中单片机的代码的书写和烧录</title>
+    <link href="https://www.marsevilspirit.com/2024/09/19/Linux%E4%B8%AD%E5%8D%95%E7%89%87%E6%9C%BA%E7%9A%84%E4%BB%A3%E7%A0%81%E7%9A%84%E4%B9%A6%E5%86%99%E5%92%8C%E7%83%A7%E5%BD%95/"/>
+    <id>https://www.marsevilspirit.com/2024/09/19/Linux%E4%B8%AD%E5%8D%95%E7%89%87%E6%9C%BA%E7%9A%84%E4%BB%A3%E7%A0%81%E7%9A%84%E4%B9%A6%E5%86%99%E5%92%8C%E7%83%A7%E5%BD%95/</id>
+    <published>2024-09-19T05:36:00.000Z</published>
+    <updated>2025-03-22T05:50:23.824Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今天电装实习，突然对在Linux下写单片机代码和烧录产生了兴趣，&lt;br&gt;特意研究一番，记录一下。&lt;/p&gt;
+&lt;h3 id=&quot;准备工具&quot;&gt;&lt;a href=&quot;#准备工具&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="https://www.marsevilspirit.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="CLI" scheme="https://www.marsevilspirit.com/tags/CLI/"/>
+    
+    <category term="单片机" scheme="https://www.marsevilspirit.com/tags/%E5%8D%95%E7%89%87%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2024年9月17日中秋</title>
+    <link href="https://www.marsevilspirit.com/2024/09/17/20240917%E4%B8%AD%E7%A7%8B/"/>
+    <id>https://www.marsevilspirit.com/2024/09/17/20240917%E4%B8%AD%E7%A7%8B/</id>
+    <published>2024-09-17T15:53:00.000Z</published>
+    <updated>2025-03-22T05:50:23.824Z</updated>
+    
+    
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    <category term="日记" scheme="https://www.marsevilspirit.com/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="闲话" scheme="https://www.marsevilspirit.com/tags/%E9%97%B2%E8%AF%9D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>fish的配置</title>
+    <link href="https://www.marsevilspirit.com/2024/09/17/fish%E7%9A%84%E9%85%8D%E7%BD%AE/"/>
+    <id>https://www.marsevilspirit.com/2024/09/17/fish%E7%9A%84%E9%85%8D%E7%BD%AE/</id>
+    <published>2024-09-17T10:20:00.000Z</published>
+    <updated>2025-03-22T05:50:23.824Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;fish的配置&quot;&gt;&lt;a href=&quot;#fish的配置&quot; class=&quot;headerlink&quot; title=&quot;fish的配置&quot;&gt;&lt;/a&gt;fish的配置&lt;/h3&gt;&lt;p&gt;今天心血来潮，想试试现代shell是什么感觉。&lt;/p&gt;
+&lt;h4 id=&quot;下载fish&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="桌面环境" scheme="https://www.marsevilspirit.com/categories/%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83/"/>
+    
+    
+    <category term="CLI" scheme="https://www.marsevilspirit.com/tags/CLI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>arch linux系统永久改键</title>
+    <link href="https://www.marsevilspirit.com/2024/09/17/arch-change-key/"/>
+    <id>https://www.marsevilspirit.com/2024/09/17/arch-change-key/</id>
+    <published>2024-09-17T07:11:00.000Z</published>
+    <updated>2025-03-22T05:50:23.824Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这是我苦苦寻找最好的方法，无需其他软件，直接开机自启。&lt;br&gt;这个方法需要桌面环境X11(在tty的环境下无效)。&lt;/p&gt;
+&lt;p&gt;首先我们需要找到&lt;code&gt;/usr/share/X11/xkb/keycodes/evdev&lt;/code&gt;这个文件。&lt;br&gt;用vim进入并修改</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="https://www.marsevilspirit.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="CLI" scheme="https://www.marsevilspirit.com/tags/CLI/"/>
+    
+  </entry>
+  
+</feed>
