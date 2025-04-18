@@ -92,24 +92,6 @@
   </url>
   
   <url>
-    <loc>https://www.marsevilspirit.com/2024/10/04/useful-website/</loc>
-    
-    <lastmod>2025-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.marsevilspirit.com/2024/09/28/%E6%88%91%E6%83%AF%E7%94%A8%E7%9A%84%E5%AD%97%E4%BD%93/</loc>
-    
-    <lastmod>2025-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.marsevilspirit.com/2024/09/21/%E7%94%A8eza%E6%9B%BF%E4%BB%A3ls/</loc>
     
     <lastmod>2025-03-22</lastmod>
@@ -247,7 +229,7 @@
 
   <url>
     <loc>https://www.marsevilspirit.com/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -255,91 +237,77 @@
   
   <url>
     <loc>https://www.marsevilspirit.com/tags/%E9%97%B2%E8%AF%9D/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.marsevilspirit.com/tags/CLI/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.marsevilspirit.com/tags/RSS/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.marsevilspirit.com/tags/%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.marsevilspirit.com/tags/Linux/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.marsevilspirit.com/tags/git/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.marsevilspirit.com/tags/i3/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.marsevilspirit.com/tags/KDE/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.marsevilspirit.com/tags/nvidia/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.marsevilspirit.com/tags/wayland/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.marsevilspirit.com/tags/cmake/</loc>
-    <lastmod>2025-04-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.marsevilspirit.com/tags/%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2025-04-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.marsevilspirit.com/tags/%E5%AD%97%E4%BD%93/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -348,56 +316,49 @@
   
   <url>
     <loc>https://www.marsevilspirit.com/categories/%E6%97%A5%E8%AE%B0/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.marsevilspirit.com/categories/%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.marsevilspirit.com/categories/%E9%85%8D%E7%BD%AE/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.marsevilspirit.com/categories/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.marsevilspirit.com/categories/%E6%8A%80%E5%B7%A7/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.marsevilspirit.com/categories/%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83/</loc>
-    <lastmod>2025-04-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.marsevilspirit.com/categories/%E7%BD%91%E7%AB%99/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.marsevilspirit.com/categories/%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83/%E6%9C%AA%E5%AE%8C%E6%88%90/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

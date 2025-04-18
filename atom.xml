@@ -95,32 +95,6 @@
   </entry>
   
   <entry>
-    <title>好用的网站</title>
-    <link href="https://www.marsevilspirit.com/2024/10/04/useful-website/"/>
-    <id>https://www.marsevilspirit.com/2024/10/04/useful-website/</id>
-    <published>2024-10-04T11:29:00.000Z</published>
-    <updated>2025-03-22T05:50:23.825Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;span style=&quot;color:blue;&quot;&gt;练习打字的网站&lt;/span&gt;&lt;br&gt;monkeytype.com : &lt;a href=&quot;https://monkeytype.com/&quot;&gt;https://monkeytype.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span</summary>
-        
-      
-    
-    
-    
-    <category term="网站" scheme="https://www.marsevilspirit.com/categories/%E7%BD%91%E7%AB%99/"/>
-    
-    
-    <category term="工具" scheme="https://www.marsevilspirit.com/tags/%E5%B7%A5%E5%85%B7/"/>
-    
-  </entry>
-  
-  <entry>
     <title>dotflies的管理</title>
     <link href="https://www.marsevilspirit.com/2024/10/03/dotfiles%E7%9A%84%E7%AE%A1%E7%90%86/"/>
     <id>https://www.marsevilspirit.com/2024/10/03/dotfiles%E7%9A%84%E7%AE%A1%E7%90%86/</id>
@@ -142,25 +116,6 @@
     
     
     <category term="git" scheme="https://www.marsevilspirit.com/tags/git/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我惯用的字体</title>
-    <link href="https://www.marsevilspirit.com/2024/09/28/%E6%88%91%E6%83%AF%E7%94%A8%E7%9A%84%E5%AD%97%E4%BD%93/"/>
-    <id>https://www.marsevilspirit.com/2024/09/28/%E6%88%91%E6%83%AF%E7%94%A8%E7%9A%84%E5%AD%97%E4%BD%93/</id>
-    <published>2024-09-28T06:42:00.000Z</published>
-    <updated>2025-03-22T05:50:23.825Z</updated>
-    
-    
-    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
-    
-    
-    
-    <category term="配置" scheme="https://www.marsevilspirit.com/categories/%E9%85%8D%E7%BD%AE/"/>
-    
-    
-    <category term="字体" scheme="https://www.marsevilspirit.com/tags/%E5%AD%97%E4%BD%93/"/>
     
   </entry>
   
@@ -511,6 +466,34 @@
         
     <summary type="html">&lt;p&gt;这是我苦苦寻找最好的方法，无需其他软件，直接开机自启。&lt;br&gt;这个方法需要桌面环境X11(在tty的环境下无效)。&lt;/p&gt;
 &lt;p&gt;首先我们需要找到&lt;code&gt;/usr/share/X11/xkb/keycodes/evdev&lt;/code&gt;这个文件。&lt;br&gt;用vim进入并修改</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="https://www.marsevilspirit.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="CLI" scheme="https://www.marsevilspirit.com/tags/CLI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>命令行调节屏幕亮度</title>
+    <link href="https://www.marsevilspirit.com/2024/09/17/Adjust-screen-brightness-cli/"/>
+    <id>https://www.marsevilspirit.com/2024/09/17/Adjust-screen-brightness-cli/</id>
+    <published>2024-09-16T19:14:00.000Z</published>
+    <updated>2025-03-22T05:50:23.824Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;由于不知为什么， 我的arch linux的KDE亮度调节UI不好使，就是一个摆设。&lt;/p&gt;
+&lt;p&gt;我也懒得去搞，在这里总结一下用命令行调节亮度的方法。&lt;/p&gt;
+&lt;p&gt;因为我是用的是X11啊，所以用了&lt;code&gt;xrandr&lt;/code&gt;这个命令：&lt;/p&gt;
+&lt;figure</summary>
         
       
     
