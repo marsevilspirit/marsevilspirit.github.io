@@ -6,7 +6,7 @@
   <link href="https://www.marsevilspirit.com/atom.xml" rel="self"/>
   
   <link href="https://www.marsevilspirit.com/"/>
-  <updated>2025-04-09T07:12:42.762Z</updated>
+  <updated>2025-04-20T09:44:09.444Z</updated>
   <id>https://www.marsevilspirit.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>why RPC-RESTful use POST</title>
+    <link href="https://www.marsevilspirit.com/2025/04/20/rpc-restful-post-method/"/>
+    <id>https://www.marsevilspirit.com/2025/04/20/rpc-restful-post-method/</id>
+    <published>2025-04-20T07:59:00.000Z</published>
+    <updated>2025-04-20T09:44:09.444Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;最近在写dubbo-go的OpenAPI支持，发现几乎所有的RPC框架中RESTful规范都只使用POST方法，于是上google冲浪了一会了解了一下前因后果，加深了对RESTful的理解。&lt;/p&gt;
+&lt;p&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>RSS订阅的尝试</title>
